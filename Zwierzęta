@@ -1,0 +1,112 @@
+<! doctype html >
+< html  lang = " pl " >
+
+< głowa >
+    <! - Wymagane metatagi ->
+    < meta  charset = " utf-8 " >
+    < meta  name = " viewport " content = " width = device-width, initial-scale = 1, shrink-to-fit = no " >
+
+    <! - Bootstrap CSS ->
+    < link  rel = " stylesheet " href = " https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css " integrity = " sha384-MCw98 / SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYmFOiuwXJoPkn "
+        crossorigin = " anonimowy " >
+    < Związek  rel = " stylów " sekcję =" https://use.fontawesome.com/releases/v5.4.1/css/all.css " integralność =" sha384-5sAR7xN1Nv6T6 + dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz "
+        crossorigin = " anonimowy " >
+
+< styl >
+# header {
+    background : url ( "imgs / header.jpeg" );
+    / * background: url ("imgs / header.jpeg") na środku na środku / okładka bez powtórzeń; * /
+}
+# xxx {
+wyrównywanie tekstu : do środka;
+}
+# next {
+  border : 1 px stałe # 00A40B ;
+  border-radius : 5 pikseli ;
+  kolor tła : biały;
+  kolor : # 00A40B ;
+  margines : 5 px ;
+}
+# next : hover {
+  border : 1 px stałe # 00A40B ;
+  border-radius : 5 pikseli ;
+  background-color : # 00A40B ;
+  kolor : biały;
+  margines : 5 px ;
+
+}
+</ style >
+
+
+    < title > FraneB's HOME </ title >
+</ head >
+
+< body >
+    < nav  class = " navbar bg-dark navbar-dark " >
+        < div  class = " container " >
+            < Href = "" class = " navbar marki " > < i class =" fas fa lornetki mr-2 " > </ i > HOME FraneB za </ >  
+        </ div >
+    </ nav >
+
+    < section  id = " header " class = " jumbotron text-center " >
+        < h1  class = " display-3 " > DOM Franeba </ h1 >
+        < p  class = " lead " > Najlepszy Polski Serwer Discord </ p >
+        < Href = " https://discord.gg/34ynGzN " class =" btn btn-podstawowej " > link Zaproszeniowy </ > 
+
+    </ section >
+
+    < section  id = " gallery " >
+       < div  class = " container " >
+            < div  class = " row " >
+                < div  class = " col-lg-4 mb-4 " >
+                    < div  class = " card " >
+                        < img  class = " card-img-top " src = " imgs / giveaway.png " alt = "" >
+                        < div  class = " card-body " >
+                            < h5  class = " card-title " > Giveawaye </ h5 >
+                            < p  class = " card-text " > Aby wziać udział w giveawayu wystarczy kliknać emotke na # ┋🎉┋giveawaye. </ p >
+                            < Href = " https://discord.GG/34ynGzN " class =" btn btn-outline-sukces btn-SM " > link </ > 
+                            < Href = "" class = " btn btn-outline-niebezpieczeństwo btn-SM " > < i class =" daleko fa-serce " > </ i > </ >  
+                        </ div >
+                    </ div >
+                </ div >
+                < div  class = " col-lg-4 mb-4 " >
+                    < div  class = " card " >
+                        < img  class = " card-img-top " src = " imgs / yag.png " alt = "" >
+                        < div  class = " card-body " >
+                            < h5  class = " card-title " > Własne komendy w YAG'u </ h5 >
+                            < p  class = " card-text " > Własne zakodowane komendy w yagu. </ p >
+                            < Href = " https://discord.GG/34ynGzN " class =" btn btn-outline-sukces btn-SM " > link </ > 
+                            < Href = "" class = " btn btn-outline-niebezpieczeństwo btn-SM " > < i class =" daleko fa-serce " > </ i > </ >  
+                        </ div >
+                    </ div >
+                </ div >
+                < div  class = " col-lg-4 mb-4 " >
+                    < div  class = " card " >
+                        < img  class = " card-img-top " src = "" alt = " Tu tez kiedy bedzie bedzie zdj: c " >
+                        < div  class = " card-body " >
+                            < h5  class = " card-title " > Spis komęnd. </ h5 >
+                            < p  class = " card-text " > Spis komęnd w trakcie pracy, kiedyś ... będzie.
+                                </ p >
+                            < Href = " https://discord.GG/34ynGzN " class =" btn btn-outline-sukces btn-SM " > link </ > 
+                            < Href = "" class = " btn btn-outline-niebezpieczeństwo btn-SM " > < i class =" daleko fa-serce " > </ i > </ >  
+                        </ div >
+                    </ div >
+                </ div >
+            </ div >
+       </ div >
+    </ section >
+    < sekcja >
+      < div  id = " xxx " >
+
+    </ section >
+            <! - Opcjonalny JavaScript ->
+    <! - najpierw jQuery, potem Popper.js, potem Bootstrap JS ->
+    < script  src = " https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity = " sha384-q8i / X + 965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH + 8abtTE1Pi6jizo "
+        crossorigin = " anonymous " > </ script >
+    < script  src = " https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integrity = " sha384-ZMP7rVo3mIykV + 2 + 9J3UJ46jBk0WLaUAdn689aCwoqbCBJiSn49 "
+        crossorigin = " anonymous " > </ script >
+    < Skrypt  src = " https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integralność =" sha384-ChfqqxuZUCnJSK3 + MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW / JmZQ5stwEULTy "
+        crossorigin = " anonymous " > </ script >
+</ body >
+
+</ html >
